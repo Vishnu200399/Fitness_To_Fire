@@ -15,7 +15,7 @@ This project aims to create a Fitness webiste for different age groups. It utili
 
 ## Screenshots
 
-https://github.com/Vishnu200399/Fitness_To_Fire/assets/93635977/ace0e774-807b-4ec4-9724-37875003cfc4
+https://github.com/Vishnu200399/Fitness_To_Fire/assets/93635977/4097367a-843a-4b86-91a4-ad13adb17564
 
 ![](https://github.com/Vishnu200399/Fitness_To_Fire/blob/master/img/FIt_read1.png)
 
