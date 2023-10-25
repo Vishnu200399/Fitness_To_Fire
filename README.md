@@ -14,6 +14,9 @@ This project aims to create a Fitness webiste for different age groups. It utili
 - will try to use animtion libraires like GSAP
 
 ## Screenshots
+
+https://github.com/Vishnu200399/Fitness_To_Fire/assets/93635977/ace0e774-807b-4ec4-9724-37875003cfc4
+
 ![](https://github.com/Vishnu200399/Fitness_To_Fire/blob/master/img/FIt_read1.png)
 
 ![](https://github.com/Vishnu200399/Fitness_To_Fire/blob/master/img/Fit_read%202.png)
